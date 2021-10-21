@@ -38,7 +38,7 @@
 <img align="left" alt="ADOBE AfterEffects" width="75px" src="https://img.shields.io/badge/Adobe%20After%20Effects-0B01CF?style=for-the-badge&logo=Adobe%20after-effects&logoColor=white" />
 <img align="left" alt="ADOBE Illustrator" width="75px" src="https://img.shields.io/badge/Adobe%20Illustrator-C6E11C?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
 <img align="left" alt="ADOBE Xd" width="75px" src="https://img.shields.io/badge/Adobe%20xd-F0018A?style=for-the-badge&logo=Adobe%20xd&logoColor=white" />
-<br />
+<br/>
 
 ---
 
