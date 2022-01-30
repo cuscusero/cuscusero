@@ -23,7 +23,6 @@
    <img align="left" alt="JavaScript" width="75px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
    <img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/-node.js-43853D?logo=node.js&logoColor=black" />
    <img align="left" alt="PHP" width="75px" src="https://img.shields.io/badge/-php-6769C4?logo=php&logoColor=white" />
-   <img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/-node.js-43853D?logo=node.js&logoColor=black" />
 <br>
 
 ---
