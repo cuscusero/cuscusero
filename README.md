@@ -11,8 +11,6 @@
    - 🎮 [CallejerosRP - Server FiveM](https://callejerosrp.com)
 
 
-
-
 ---
 
 ## 💻Working with these Languages & Programms:
@@ -27,6 +25,8 @@
 <img align="left" alt="PHP" width="75px" src="https://img.shields.io/badge/-php-6769C4?logo=php&logoColor=white" />
 <img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/-node.js-43853D?logo=node.js&logoColor=black" />
 <br>
+
+---
 
 #### 🤖Programms
 <img align="left" alt="Visual Studio Code" width="76px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -48,14 +48,14 @@
 <img align="left" alt="Arch Linux" width="75px" src="https://img.shields.io/badge/Arch%20Linux-2D2D2D?style=for-the-badge&logo=arch-linux&logoColor=blue" />
 <img align="left" alt="Debian" width="75px" src="https://img.shields.io/badge/Debian-3F3F3F?style=for-the-badge&logo=debian&logoColor=red" />
 <img align="left" alt="Ubuntu" width="75px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=red" />
-<br />
+<br/>
 
 ---
 
 ### 🌐Social Links:
 [<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-<br />
+<br/>
 
 ---
 
@@ -63,7 +63,7 @@
 <img align="left" alt="Xtream | Nvidia" width="100px" src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img align="left" alt="AMD" width="100px" src="https://img.shields.io/badge/RYZEN%205%201600-ff770f?style=for-the-badge&logo=amd&logoColor=white" />
 <img align="left" alt="Windows" width="100px" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<br />
+<br/>
 
 
 ---
