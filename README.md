@@ -1,17 +1,19 @@
 # Cuscusero's Profile
 
-### 👋 ¡Hey! I am Cuscusero
+### 👋 ¡Hey! I am Cuscusero <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fvohn2u0psifzwybar3f7jjfm&cover_image=true&theme=default&bar_color=39db33&bar_color_cover=false">
 
 - 🌐 Coming from Spain
-- 📫 You can contact me through Discord: Cuscusero#0001
+- 📫 You can contact me through Discord: Cuscusero#0001 
 - 🖥️ Projects:
    - ☁ [UpZafire CloudStorage](https://upzafire.com)
    - 🥶 [ColdHosting](https://coldhosting.com)
    - 🪐 [CfxFinder](https://discord.gg/7RAA7hPKvJ)
    - 🎮 [CallejerosRP - Server FiveM](https://callejerosrp.com)
    - ⚔️ [LR-AC](https://discord.gg/Xf7MRPq2hd)
-
+   - 🔜 [CTA](https://web.web)
+   - 🔜 [FLEX](https://web.web)
 ---
+
 
 ## 💻Working with these Languages & Programms:
 #### 🈺Languages
@@ -37,7 +39,7 @@
    <img align="left" alt="ADOBE AfterEffects" width="75px" src="https://img.shields.io/badge/Adobe%20After%20Effects-0B01CF?style=for-the-badge&logo=Adobe%20after-effects&logoColor=white" />
    <img align="left" alt="ADOBE Illustrator" width="75px" src="https://img.shields.io/badge/Adobe%20Illustrator-C6E11C?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
    <img align="left" alt="ADOBE Xd" width="75px" src="https://img.shields.io/badge/Adobe%20xd-F0018A?style=for-the-badge&logo=Adobe%20xd&logoColor=white" />
-<br/>
+<br>
 
 ---
 
@@ -47,14 +49,14 @@
    <img align="left" alt="Arch Linux" width="75px" src="https://img.shields.io/badge/Arch%20Linux-2D2D2D?style=for-the-badge&logo=arch-linux&logoColor=blue" />
    <img align="left" alt="Debian" width="75px" src="https://img.shields.io/badge/Debian-3F3F3F?style=for-the-badge&logo=debian&logoColor=red" />
    <img align="left" alt="Ubuntu" width="75px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=red" />
-<br/>
+<br>
 
 ---
 
 ### 🌐Social Links:
 [<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-<br/>
+<br>
 
 ---
 
@@ -62,16 +64,19 @@
    <img align="left" alt="Xtream | Nvidia" width="100px" src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
    <img align="left" alt="AMD" width="100px" src="https://img.shields.io/badge/RYZEN%205%201600-ff770f?style=for-the-badge&logo=amd&logoColor=white" />
    <img align="left" alt="Windows" width="100px" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<br/>
-
+<br>
 
 ---
 
 <details>
   <summary>📚GitHub Stats</summary>
-
-  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuscusero&layout=compact" />
-  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=cuscusero&show_icons=true&theme=algolia" />
+   
+<div align="center">
+  <img alt="Marks" src="https://github-readme-stats.vercel.app/api?username=cuscusero&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img alt="Marks" src="https://github-readme-streak-stats.herokuapp.com/?user=cuscusero&theme=gruvbox&hide_border=true" />
+    <img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuscusero&theme=vue" />
+</div>
+   
 
 </details>
 
