@@ -1,6 +1,6 @@
 # Cuscusero's Profile
 
-### 👋 ¡Hey! I am Cuscusero <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fvohn2u0psifzwybar3f7jjfm&cover_image=true&theme=default&bar_color=39db33&bar_color_cover=false">
+### 👋 ¡Hey! I am Cuscusero
 
 - 🌐 Coming from Spain
 - 📫 You can contact me through Discord: Cuscusero#0001 
