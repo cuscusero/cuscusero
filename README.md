@@ -10,8 +10,8 @@
    - 🪐 [CfxFinder](https://discord.gg/7RAA7hPKvJ)
    - 🎮 [CallejerosRP - Server FiveM](https://callejerosrp.com)
    - ⚔️ [LR-AC](https://discord.gg/Xf7MRPq2hd)
+   - ☁ [FlexChar](https://flexchar.com)
    - 🔜 [CTA](https://web.web)
-   - 🔜 [FLEX](https://web.web)
 ---
 
 
